@@ -1,5 +1,5 @@
-# Aplikasi-POS-delphi LINK: https://drive.google.com/file/d/1EYw3W7Vi9GogI_WkjJpMC1A0C8QLkiQq/view?usp=sharing
-aplikasi Point of Sales dengan Delphi 10.3 
+# Aplikasi-POS-delphi
+aplikasi Point of Sales dengan Delphi 10.3  LINK: https://drive.google.com/file/d/1EYw3W7Vi9GogI_WkjJpMC1A0C8QLkiQq/view?usp=sharing
 
 # Harus di Install
 => Embarcadero Delphi 10.3 
