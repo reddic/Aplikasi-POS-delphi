@@ -1,0 +1,91 @@
+object frmLogin: TfrmLogin
+  Left = 0
+  Top = 0
+  BorderStyle = bsDialog
+  Caption = 'Login'
+  ClientHeight = 146
+  ClientWidth = 398
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  Position = poScreenCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object RzPanel1: TRzPanel
+    Left = 0
+    Top = 0
+    Width = 398
+    Height = 146
+    Align = alClient
+    BiDiMode = bdRightToLeft
+    BorderOuter = fsBump
+    Color = clMenu
+    ParentBiDiMode = False
+    TabOrder = 0
+    object RzLabel1: TRzLabel
+      Left = 80
+      Top = 66
+      Width = 54
+      Height = 14
+      Caption = 'Username'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -12
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object RzLabel2: TRzLabel
+      Left = 83
+      Top = 93
+      Width = 51
+      Height = 14
+      Caption = 'Password'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -12
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object RzPanel2: TRzPanel
+      Left = 2
+      Top = 2
+      Width = 394
+      Height = 41
+      Align = alTop
+      Caption = 'Login Form Point Of Sales (POS) PT. Astra Honda Motor'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -11
+      Font.Name = 'Tahoma'
+      Font.Style = [fsBold]
+      ParentFont = False
+      TabOrder = 0
+    end
+    object RzEdUsername: TRzEdit
+      Left = 160
+      Top = 64
+      Width = 161
+      Height = 21
+      Text = ''
+      TabOrder = 1
+      OnKeyPress = RzEdUsernameKeyPress
+    end
+    object RzEdPassword: TRzEdit
+      Left = 160
+      Top = 91
+      Width = 161
+      Height = 21
+      Text = ''
+      PasswordChar = '#'
+      TabOrder = 2
+      OnKeyPress = RzEdPasswordKeyPress
+    end
+  end
+end

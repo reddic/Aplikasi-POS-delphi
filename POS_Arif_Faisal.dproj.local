@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/06 23:39:08.000.622,=I:\Embarcadero\studio\project\Unit1.pas</Transaction>
+    <Transaction>2022/11/06 23:42:08.000.840,I:\Embarcadero\studio\project\Unit1.dfm=I:\Embarcadero\studio\POS\UMain.dfm</Transaction>
+    <Transaction>2022/11/06 23:42:08.000.840,I:\Embarcadero\studio\project\Unit1.pas=I:\Embarcadero\studio\POS\UMain.pas</Transaction>
+    <Transaction>2022/11/06 23:42:50.000.129,I:\Embarcadero\studio\project\Project1.dproj=I:\Embarcadero\studio\POS\POS_Arif_Faisal.dproj</Transaction>
+    <Transaction>2022/11/07 00:13:27.000.834,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/11/07 00:19:52.000.458,I:\Embarcadero\studio\POS\Unit1.pas=I:\Embarcadero\studio\POS\UMasterData.pas</Transaction>
+    <Transaction>2022/11/07 00:19:52.000.458,I:\Embarcadero\studio\POS\Unit1.dfm=I:\Embarcadero\studio\POS\UMasterData.dfm</Transaction>
+    <Transaction>2022/11/07 00:22:21.000.558,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/11/07 00:41:36.000.431,I:\Embarcadero\studio\POS\Unit1.dfm=I:\Embarcadero\studio\POS\UDM.dfm</Transaction>
+    <Transaction>2022/11/07 00:41:36.000.431,I:\Embarcadero\studio\POS\Unit1.pas=I:\Embarcadero\studio\POS\UDM.pas</Transaction>
+    <Transaction>2022/11/07 00:49:19.000.423,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/11/07 00:51:18.000.942,I:\Embarcadero\studio\POS\Unit1.pas=I:\Embarcadero\studio\POS\UBarang.pas</Transaction>
+    <Transaction>2022/11/07 00:51:18.000.942,I:\Embarcadero\studio\POS\Unit1.dfm=I:\Embarcadero\studio\POS\UBarang.dfm</Transaction>
+    <Transaction>2022/11/07 00:56:24.000.041,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/11/07 00:59:24.000.606,I:\Embarcadero\studio\POS\Unit1.dfm=I:\Embarcadero\studio\POS\USupplier.dfm</Transaction>
+    <Transaction>2022/11/07 00:59:24.000.606,I:\Embarcadero\studio\POS\Unit1.pas=I:\Embarcadero\studio\POS\USupplier.pas</Transaction>
+    <Transaction>2022/11/07 00:59:39.000.327,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/11/07 01:01:42.000.717,I:\Embarcadero\studio\POS\Unit1.dfm=I:\Embarcadero\studio\POS\UCustomer.dfm</Transaction>
+    <Transaction>2022/11/07 01:01:42.000.717,I:\Embarcadero\studio\POS\Unit1.pas=I:\Embarcadero\studio\POS\UCustomer.pas</Transaction>
+    <Transaction>2022/11/07 01:01:58.000.405,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/11/07 01:03:09.000.902,I:\Embarcadero\studio\POS\Unit1.dfm=I:\Embarcadero\studio\POS\UUnit.dfm</Transaction>
+    <Transaction>2022/11/07 01:03:09.000.902,I:\Embarcadero\studio\POS\Unit1.pas=I:\Embarcadero\studio\POS\UUnit.pas</Transaction>
+    <Transaction>2022/12/17 22:02:39.000.769,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/12/17 22:07:56.000.314,I:\Embarcadero\studio\POS\Unit1.dfm=I:\Embarcadero\studio\POS\UTransaksiData.dfm</Transaction>
+    <Transaction>2022/12/17 22:07:56.000.314,I:\Embarcadero\studio\POS\Unit1.pas=I:\Embarcadero\studio\POS\UTransaksiData.pas</Transaction>
+    <Transaction>2022/12/18 00:12:45.000.534,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/12/18 00:13:33.000.244,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/12/18 00:14:00.000.700,I:\Embarcadero\studio\POS\Unit1.dfm=I:\Embarcadero\studio\POS\UPembelian.dfm</Transaction>
+    <Transaction>2022/12/18 00:14:00.000.700,I:\Embarcadero\studio\POS\Unit1.pas=I:\Embarcadero\studio\POS\UPembelian.pas</Transaction>
+    <Transaction>2022/12/18 01:00:11.000.570,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/12/18 01:00:31.000.651,I:\Embarcadero\studio\POS\Unit1.dfm=I:\Embarcadero\studio\POS\UCreatePO.dfm</Transaction>
+    <Transaction>2022/12/18 01:00:31.000.651,I:\Embarcadero\studio\POS\Unit1.pas=I:\Embarcadero\studio\POS\UCreatePO.pas</Transaction>
+    <Transaction>2022/12/30 17:22:39.000.014,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/12/30 17:36:20.000.823,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/12/30 17:38:17.000.631,I:\Embarcadero\studio\POS\UAddItem.pas=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2022/12/30 17:38:17.000.631,I:\Embarcadero\studio\POS\UAddItem.dfm=I:\Embarcadero\studio\POS\Unit1.dfm</Transaction>
+    <Transaction>2023/01/12 21:52:36.000.153,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 21:55:29.000.282,I:\Embarcadero\studio\POS\Unit1.pas=I:\Embarcadero\studio\POS\UPurchaseReport.pas</Transaction>
+    <Transaction>2023/01/12 21:55:29.000.282,I:\Embarcadero\studio\POS\Unit1.dfm=I:\Embarcadero\studio\POS\UPurchaseReport.dfm</Transaction>
+    <Transaction>2023/01/15 12:08:29.000.094,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2023/01/15 12:09:00.000.945,I:\Embarcadero\studio\POS\UUsers.dfm=I:\Embarcadero\studio\POS\Unit1.dfm</Transaction>
+    <Transaction>2023/01/15 12:09:00.000.945,I:\Embarcadero\studio\POS\UUsers.pas=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2023/01/15 13:44:09.000.927,=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2023/01/15 13:44:21.000.307,I:\Embarcadero\studio\POS\ULogin.pas=I:\Embarcadero\studio\POS\Unit1.pas</Transaction>
+    <Transaction>2023/01/15 13:44:21.000.307,I:\Embarcadero\studio\POS\ULogin.dfm=I:\Embarcadero\studio\POS\Unit1.dfm</Transaction>
+    <Transaction>2023/01/15 16:29:25.000.417,I:\Embarcadero\studio\POS\UPenjualan.pas=I:\Embarcadero\studio\POS\UPembelian.pas</Transaction>
+    <Transaction>2023/01/15 16:29:25.000.417,I:\Embarcadero\studio\POS\UPenjualan.dfm=I:\Embarcadero\studio\POS\UPembelian.dfm</Transaction>
+    <Transaction>2023/01/15 17:22:01.000.407,I:\Embarcadero\studio\POS\UPurchaseReport.dfm=I:\Embarcadero\studio\POS\USalesReport.dfm</Transaction>
+    <Transaction>2023/01/15 17:22:01.000.407,I:\Embarcadero\studio\POS\UPurchaseReport.pas=I:\Embarcadero\studio\POS\USalesReport.pas</Transaction>
+    <Transaction>2023/01/15 18:17:52.000.741,I:\Embarcadero\studio\POS\UCreatePO.dfm=I:\Embarcadero\studio\POS\UCreateSO.dfm</Transaction>
+    <Transaction>2023/01/15 18:17:52.000.741,I:\Embarcadero\studio\POS\UCreatePO.pas=I:\Embarcadero\studio\POS\UCreateSO.pas</Transaction>
+  </Transactions>
+</BorlandProject>
