@@ -1,4 +1,4 @@
-# Aplikasi-POS-delphi
+# Aplikasi-POS-delphi LINK: https://drive.google.com/file/d/1EYw3W7Vi9GogI_WkjJpMC1A0C8QLkiQq/view?usp=sharing
 aplikasi Point of Sales dengan Delphi 10.3 
 
 # Harus di Install
